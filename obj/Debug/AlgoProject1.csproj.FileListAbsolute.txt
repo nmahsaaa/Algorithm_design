@@ -1,0 +1,13 @@
+c:\users\shrservice\documents\visual studio 2012\Projects\AlgoProject1\AlgoProject1\bin\Debug\AlgoProject1.exe.config
+c:\users\shrservice\documents\visual studio 2012\Projects\AlgoProject1\AlgoProject1\bin\Debug\AlgoProject1.exe
+c:\users\shrservice\documents\visual studio 2012\Projects\AlgoProject1\AlgoProject1\bin\Debug\AlgoProject1.pdb
+c:\users\shrservice\documents\visual studio 2012\Projects\AlgoProject1\AlgoProject1\obj\Debug\AlgoProject1.csprojResolveAssemblyReference.cache
+c:\users\shrservice\documents\visual studio 2012\Projects\AlgoProject1\AlgoProject1\obj\Debug\AlgoProject1.Form1.resources
+c:\users\shrservice\documents\visual studio 2012\Projects\AlgoProject1\AlgoProject1\obj\Debug\AlgoProject1.Properties.Resources.resources
+c:\users\shrservice\documents\visual studio 2012\Projects\AlgoProject1\AlgoProject1\obj\Debug\AlgoProject1.csproj.GenerateResource.Cache
+c:\users\shrservice\documents\visual studio 2012\Projects\AlgoProject1\AlgoProject1\obj\Debug\AlgoProject1.exe
+c:\users\shrservice\documents\visual studio 2012\Projects\AlgoProject1\AlgoProject1\obj\Debug\AlgoProject1.pdb
+c:\users\shrservice\documents\visual studio 2012\Projects\AlgoProject1\AlgoProject1\obj\Debug\AlgoProject1.Form2.resources
+C:\Users\user\Documents\AlgoProject1\AlgoProject1\bin\Debug\AlgoProject1.exe.config
+C:\Users\user\Documents\AlgoProject1\AlgoProject1\obj\Debug\AlgoProject1.exe
+C:\Users\user\Documents\AlgoProject1\AlgoProject1\obj\Debug\AlgoProject1.pdb
